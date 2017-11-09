@@ -1,0 +1,9 @@
+c:\users\temp.as\documents\visual studio 2013\Projects\Equation\Equation\bin\Debug\Equation.exe.config
+D:\Users\Equation\Equation\bin\Debug\Equation.exe.config
+D:\Users\Equation\Equation\bin\Debug\Equation.exe
+D:\Users\Equation\Equation\bin\Debug\Equation.pdb
+D:\Users\Equation\Equation\obj\Debug\Equation.csprojResolveAssemblyReference.cache
+D:\Users\Equation\Equation\obj\Debug\Equation.Properties.Resources.resources
+D:\Users\Equation\Equation\obj\Debug\Equation.csproj.GenerateResource.Cache
+D:\Users\Equation\Equation\obj\Debug\Equation.exe
+D:\Users\Equation\Equation\obj\Debug\Equation.pdb
