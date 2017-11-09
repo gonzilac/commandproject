@@ -14,3 +14,5 @@ C:\Users\TEMP.AS\Source\Repos\commandproject\Equation\Equation\obj\Debug\Equatio
 C:\Users\TEMP.AS\Source\Repos\commandproject\Equation\Equation\obj\Debug\Equation.Form1.resources
 C:\Users\TEMP.AS\Source\Repos\commandproject\Equation\Equation\obj\Debug\Equation.Properties.Resources.resources
 C:\Users\TEMP.AS\Source\Repos\commandproject\Equation\Equation\obj\Debug\Equation.csproj.GenerateResource.Cache
+C:\Users\TEMP.AS\Source\Repos\commandproject\Equation\Equation\bin\Debug\Equation.exe
+C:\Users\TEMP.AS\Source\Repos\commandproject\Equation\Equation\bin\Debug\Equation.pdb
