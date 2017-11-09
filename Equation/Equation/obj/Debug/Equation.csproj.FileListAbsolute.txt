@@ -7,3 +7,6 @@ D:\Users\Equation\Equation\obj\Debug\Equation.Properties.Resources.resources
 D:\Users\Equation\Equation\obj\Debug\Equation.csproj.GenerateResource.Cache
 D:\Users\Equation\Equation\obj\Debug\Equation.exe
 D:\Users\Equation\Equation\obj\Debug\Equation.pdb
+C:\Users\TEMP.AS\Source\Repos\commandproject\Equation\Equation\bin\Debug\Equation.exe.config
+C:\Users\TEMP.AS\Source\Repos\commandproject\Equation\Equation\obj\Debug\Equation.exe
+C:\Users\TEMP.AS\Source\Repos\commandproject\Equation\Equation\obj\Debug\Equation.pdb
