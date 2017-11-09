@@ -10,3 +10,7 @@ D:\Users\Equation\Equation\obj\Debug\Equation.pdb
 C:\Users\TEMP.AS\Source\Repos\commandproject\Equation\Equation\bin\Debug\Equation.exe.config
 C:\Users\TEMP.AS\Source\Repos\commandproject\Equation\Equation\obj\Debug\Equation.exe
 C:\Users\TEMP.AS\Source\Repos\commandproject\Equation\Equation\obj\Debug\Equation.pdb
+C:\Users\TEMP.AS\Source\Repos\commandproject\Equation\Equation\obj\Debug\Equation.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.AS\Source\Repos\commandproject\Equation\Equation\obj\Debug\Equation.Form1.resources
+C:\Users\TEMP.AS\Source\Repos\commandproject\Equation\Equation\obj\Debug\Equation.Properties.Resources.resources
+C:\Users\TEMP.AS\Source\Repos\commandproject\Equation\Equation\obj\Debug\Equation.csproj.GenerateResource.Cache
